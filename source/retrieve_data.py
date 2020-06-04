@@ -14,6 +14,7 @@ dt_missing = {
     'BL': 'BLM',
     'CZ': 'CZE',
     'FK': 'FLK',
+    'EH': 'ESH',
 }
 
 
